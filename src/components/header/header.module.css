@@ -1,0 +1,12 @@
+:root {
+  --white: #fff;
+  --red: #e63946;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: var(--red);
+  color: var(--white);
+}
